@@ -199,9 +199,16 @@ class: inverse, center, middle
 
 **Gestion écosystémique** : *gestion guidée par des objectifs explicites, exécutée par des politiques, des protocoles et des procédures, et rendu adaptable par des suivis et de la recherche basée sur notre meilleure compréhension des interactions et processus écologiques nécessaires pour maintenant la composition, la structure et la fonction des écosystèmes.*
 
+--
+
+**Évaluation régionale** : *Une évaluation régional des effets est une évaluation environnementale dont la principale et unique caractéristique distinctive est sa portée régionale et son accent sur une compréhension des interactions entre les activités humaines et le monde naturel.*
+
+
+
 .references[
-Christensen et al. (1996)
+Christensen et al. (1996); Sinclair et al. (2017)
 ]
+
 
 ---
 
